@@ -1,0 +1,26 @@
+
+/* External
+--------------------------- */
+
+@import '../../node_modules/swiper/dist/css/swiper';
+
+/* Base
+--------------------------- */
+
+@import 'base/variables';
+@import 'base/fonts';
+@import 'base/reset';
+@import 'base/config';
+
+/* Modules
+--------------------------- */
+
+@import 'modules/container';
+
+/* Components
+--------------------------- */
+
+@import 'components/features';
+@import 'components/slide-show';
+@import 'components/home-page';
+@import 'components/main-menu';

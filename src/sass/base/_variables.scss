@@ -1,0 +1,25 @@
+
+/* Colors
+----------------------- */
+
+$color-one: #ffea00;
+$color-two: #414146;
+$color-three: #FFFFFF;
+$color-four: #E3E3E3;
+
+/* Fonts
+----------------------- */
+
+$font-family-default: 'Open Sans', sans-serif;
+$font-size-default: 1.4em;
+$font-color-default: $color-two;
+
+
+/* Media Queries
+----------------------- */
+
+$screen-small: 'screen and (min-width: 0px)';
+$screen-medium: 'screen and (min-width: 640px)';
+$screen-large: 'screen and (min-width: 1024px)';
+$screen-xlarge: 'screen and (min-width: 1200px)';
+$screen-xxlarge: 'screen and (min-width: 1440px)';
